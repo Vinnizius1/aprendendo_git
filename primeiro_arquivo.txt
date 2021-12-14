@@ -8,4 +8,4 @@ Dentre os vários aprendizados que obtive nas aulas, os que posso destacar são:
 
 3º Git Revert com o comando: git revert <código do commit>, depois somente subir as alterações da reversão. Massa!  
 
-Por último, uma dica que curti demais do professor foi essa: "Quando trabalha-se em conjunto, é fundamental realizar sempre o git pull <...> antes do git push!"
+Por último, uma dica que curti demais do professor foi essa: "Quando trabalha-se em conjunto, é fundamental realizar sempre o git pull <...> antes do git push!" :wink:
